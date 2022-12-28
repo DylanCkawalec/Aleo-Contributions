@@ -1,2 +1,3 @@
 # Leo/Aleo-Contributions
-Contributions subject to change
+- Leo White Paper Synthesis (ZEXE) 
+- Developer Enablement Strategy
